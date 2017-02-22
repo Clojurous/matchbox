@@ -1,7 +1,7 @@
 # This is a fork to get v3 working
 
 ```
-[matchbox "0.0.10-SNAPSHOT"]
+[matchbox "0.0.10-THOS37-1"]
 ```
 
 ## Client code
